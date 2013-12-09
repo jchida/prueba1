@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="806" selection-end="806" vertical-scroll-proportion="0.46875" vertical-offset="0" max-vertical-offset="1394">
+            <state line="20" column="13" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="1411">
               <folding />
             </state>
           </provider>
@@ -38,6 +38,13 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -147,7 +154,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="806" selection-end="806" vertical-scroll-proportion="0.46875" vertical-offset="0" max-vertical-offset="1394">
+        <state line="20" column="13" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.625" vertical-offset="0" max-vertical-offset="1411">
           <folding />
         </state>
       </provider>
