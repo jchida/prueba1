@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "net.mhbsoft.prueba1"
+        id        = "com.eduonix.test_app"
         version   = "1.0.0">
 
-    <name>Aplicacion Prueba1</name>
+    <name>Testing Application</name>
 
     <description>
-        Prueba de Google Maps y PhoneGap
+        This is a testing app for PhoneGap
     </description>
 
     <author href="http://eduonix.com" email="support@eduonix.com">
-       MHB
+       Brad Traversy
     </author>
 
     <!--
